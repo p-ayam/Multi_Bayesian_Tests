@@ -50,7 +50,7 @@ Let’s do that: If you run another test and get tested positive again, your pro
 <img src="https://github.com/p-ayam/images/blob/main/App_Bayes.jpg" alt="alt text" width="500" height="whatever">
 </p>
 
-If you want to check your own probability numbers more closely, you can look up this dashboard that I made based on repeated Bayesian tests, using #dash #plotly  (Source code)
+If you want to check your own probability numbers more closely, you can look up [this](https://bayesian-tests.herokuapp.com/) dashboard that I made based on [repeated Bayesian tests](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055), using [dash](https://plotly.com/dash/).
 
 #### Check your own numbers here:
 [https://bayesian-tests.herokuapp.com/](https://bayesian-tests.herokuapp.com/)
