@@ -50,9 +50,9 @@ Let’s do that: If you run another test and get tested positive again, your pro
 <img src="https://github.com/p-ayam/images/blob/main/App_Bayes.jpg" alt="alt text" width="500" height="whatever">
 </p>
 
-If you want to check your own probability numbers more closely, you can look up [this](https://bayesian-tests.herokuapp.com/) dashboard that I made based on [repeated Bayesian tests](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055), using [dash](https://plotly.com/dash/).
+If you want to check your own probability numbers more closely, you can look up [this](https://multi-bayesian-tests.azurewebsites.net/) dashboard that I made based on [repeated Bayesian tests](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055), using [dash](https://plotly.com/dash/).
 
 #### Check your own numbers here:
-[https://bayesian-tests.herokuapp.com/](https://bayesian-tests.herokuapp.com/)
+[https://multi-bayesian-tests.azurewebsites.net/](https://multi-bayesian-tests.azurewebsites.net/)
 
 One final comment: The points I shared here are mainly from the time before the emergence of the Omicron variant. I'm curious if they could still be applied to Omicron..
