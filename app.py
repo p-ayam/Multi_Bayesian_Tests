@@ -221,7 +221,7 @@ def update_output(posit_no, negat_no, input_index, sens_perc , spec_perc):
 if __name__=='__main__':
 #    application.run(port=8080)
 #    app.run_server(port=8080)
-    app.run_server(debug=False)
+    app.run_server(debug=False, host="0.0.0.0", port=8000)
 #    application.run(debug=True, port=8080)
 #    app.run_server(debug=True,port=8050)
 #    app.server.run(debug=True, host='0.0.0.0')
