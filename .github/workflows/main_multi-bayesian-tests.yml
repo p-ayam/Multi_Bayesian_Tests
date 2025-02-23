@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'multi-bayesian-tests'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FAE3962216A42C08263FFFD43EA8E17 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9821173B98F64D0DA39D9CFF530240C2 }}
